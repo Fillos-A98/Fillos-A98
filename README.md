@@ -6,7 +6,8 @@
 
 Linux enthusiast focused on customization, automation and self-hosted infrastructure.
 
-[![GitHub](https://img.shields.io/badge/GitHub-17131C?style=flat-square&logo=github&logoColor=C5A6F7)](https://github.com/Fillos-A98)
+[![Website](https://img.shields.io/badge/Website-elfillos.xyz-17131C?style=flat-square&logo=googlechrome&logoColor=C5A6F7)](https://elfillos.xyz)
+[![GitHub](https://img.shields.io/badge/GitHub-Fillos--A98-17131C?style=flat-square&logo=github&logoColor=C5A6F7)](https://github.com/Fillos-A98)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-17131C?style=flat-square&logo=archlinux&logoColor=9B70D6)](https://archlinux.org/)
 [![Hyprland](https://img.shields.io/badge/Hyprland-17131C?style=flat-square&logo=hyprland&logoColor=C5A6F7)](https://hypr.land/)
 
@@ -37,6 +38,16 @@ Linux enthusiast focused on customization, automation and self-hosted infrastruc
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fillos-A98&show_icons=true&hide_border=true&bg_color=17131C&title_color=C5A6F7&text_color=D8CDE8&icon_color=9B70D6&include_all_commits=true" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fillos-A98&layout=compact&hide_border=true&bg_color=17131C&title_color=C5A6F7&text_color=D8CDE8&langs_count=6" />
+
+</div>
+
+### `04 / find me`
+
+<div align="center">
+
+**[elfillos.xyz](https://elfillos.xyz)**
+
+Personal space for projects, experiments and things built along the way.
 
 </div>
 
